@@ -5,8 +5,8 @@ import Theme from "./components/Theme";
 function App() {
   return (
     <div>
-      <Counter/>
-      <Theme/>
+      <p><Counter/></p>
+      <p><Theme/></p>
     </div>
   );
 }
